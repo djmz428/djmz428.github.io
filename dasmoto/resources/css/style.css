@@ -1,1 +1,28 @@
+#banner {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: kahaki;
+  text-align: center;
+}
 
+.section {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  
+}
+
+.listing {
+ font-family: Helvetica;
+ font-weight: bold;
+ color: blue;
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
