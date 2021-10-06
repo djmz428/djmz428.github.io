@@ -1,5 +1,5 @@
 h1 {
   color: red;
   background-image: url("../images/cheatsheet_banner.png");
-  background-size: cover;
+  background-size: contain;
 }
